@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "magnetic-hover": "^1.2.3",
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.6"
+  }
+}
